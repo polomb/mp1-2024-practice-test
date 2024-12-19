@@ -4,4 +4,4 @@
 int task1(unsigned A[], size_t n)
 {
   return -1;
-}
+}цфвафйца
